@@ -1,0 +1,30 @@
+{
+    "Verduras": [
+        {
+           "nombre": "Zapallo"
+        },
+        {
+            "nombre": "Lechuga" 
+        },
+        {
+            "nombre": "Papa"
+        },
+        {
+            "nombre": "Batata"
+        }
+    ],
+    "Frutas": [
+        {
+            "nombre": "Banana"
+        },
+        {
+            "nombre": "Frutilla"
+        },
+        {
+            "nombre": "Mango"
+        },
+        {
+            "nombre": "Naranja"
+        }
+    ]
+}
